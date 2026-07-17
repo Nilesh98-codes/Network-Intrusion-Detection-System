@@ -1,3 +1,4 @@
+
 # AI-Powered Network Intrusion Detection System
 
 Ever wondered what your network traffic looks like in real time? So did I.
@@ -127,3 +128,5 @@ If you have any suggestions or ideas for improvements, I'd love to hear them!
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
