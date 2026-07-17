@@ -36,10 +36,13 @@ It was definitely one of the more challenging projects I've worked on, but also 
 
 ## 📷 Screenshots
 
+### Dashboard
 [![Dashboard](screenshots/dashboard.png)](screenshots/dashboard.png)
 
+### Live Monitoring
 [![Live Monitoring](screenshots/dashboard_live.png)](screenshots/dashboard_live.png)
 
+### Attack Detection
 [![Attack Detection](screenshots/dashboard_attack.png)](screenshots/dashboard_attack.png)
 
 ---
