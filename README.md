@@ -41,6 +41,7 @@ It was definitely one of the more challenging projects I've worked on, but also 
 ```
 screenshots/dashboard.png
 screenshots/dashboard_live.png
+screenshots/dashboard_attack.png
 ```
 
 ---
