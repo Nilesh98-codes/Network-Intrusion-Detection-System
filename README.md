@@ -121,7 +121,7 @@ This project definitely pushed me out of my comfort zone.
 
 From debugging packet sniffing issues to experimenting with online machine learning and designing the dashboard, there were plenty of moments where I thought I'd broken everything 😅. In the end, it became one of the most enjoyable projects I've built and taught me a lot about networking, cybersecurity, and real-time data processing.
 
-If you have any suggestions or ideas for improvements, I'd love to hear them!
+If you have any suggestions or ideas for improvements, I'd love to hear them and always open to hearing out suggestions!
 
 ---
 
